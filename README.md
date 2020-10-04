@@ -15,4 +15,5 @@ Developed using Google Sheets(https://docs.google.com/spreadsheets/d/1PSvpxQIdKr
 
 # Postman Screenshot :-
 
-![Screenshot 1942-07-12 at 8 06 39 PM](https://user-images.githubusercontent.com/25646373/95018425-54e67480-067d-11eb-95ba-b9c1c264c5b8.png)
+![Screenshot 1942-07-12 at 9 10 19 PM](https://user-images.githubusercontent.com/25646373/95019968-0b4e5780-0686-11eb-9641-be89a7e358c8.png)
+
