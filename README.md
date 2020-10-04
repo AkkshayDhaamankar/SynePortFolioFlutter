@@ -1,16 +1,18 @@
-# syne_portfolio_app
+# Syne Portfolio Flutter Application
 
-A new Flutter project.
+Developed using Google Sheets(https://docs.google.com/spreadsheets/d/1PSvpxQIdKrsgTAh9ZMoqWKKWONmL8E2_GIzShFXy7SE/edit#gid=0).
 
-## Getting Started
+# Application GIF :-
 
-This project is a starting point for a Flutter application.
+![SyneOptGif](https://user-images.githubusercontent.com/25646373/95018533-fd94d400-067d-11eb-9e72-568b90b2a4fc.gif)
 
-A few resources to get you started if this is your first Flutter project:
+# Application Screenshots :-
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot 1942-07-12 at 8 05 36 PM](https://user-images.githubusercontent.com/25646373/95018421-4ef09380-067d-11eb-991f-4eeeaa3bc512.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 1942-07-12 at 8 05 49 PM](https://user-images.githubusercontent.com/25646373/95018422-51eb8400-067d-11eb-9966-62317f2565e4.png)
+
+
+# Postman Screenshot :-
+
+![Screenshot 1942-07-12 at 8 06 39 PM](https://user-images.githubusercontent.com/25646373/95018425-54e67480-067d-11eb-95ba-b9c1c264c5b8.png)
