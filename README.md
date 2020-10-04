@@ -1,4 +1,4 @@
-# syne_portfolio_app
+# Syne Portfolio Flutter Application
 
 Developed using Google Sheets(https://docs.google.com/spreadsheets/d/1PSvpxQIdKrsgTAh9ZMoqWKKWONmL8E2_GIzShFXy7SE/edit#gid=0).
 
