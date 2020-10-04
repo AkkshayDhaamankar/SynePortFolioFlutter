@@ -2,7 +2,7 @@
 
 Developed using Google Sheets(https://docs.google.com/spreadsheets/d/1PSvpxQIdKrsgTAh9ZMoqWKKWONmL8E2_GIzShFXy7SE/edit#gid=0).
 
-# Application GIF's :-
+# Application GIF :-
 
 ![SyneOptGif](https://user-images.githubusercontent.com/25646373/95018533-fd94d400-067d-11eb-9e72-568b90b2a4fc.gif)
 
