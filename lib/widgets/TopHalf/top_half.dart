@@ -1,26 +1,26 @@
 import 'package:flutter/material.dart';
 import 'package:syne_portfolio_app/models/syne.dart';
 
-Widget topHalf() {
+Widget topHalf([Syne syne]) {
   return Container(
     width: double.infinity,
     height: 300,
     child: Stack(
       children: [
-        _buildCoverImage(),
-        _buildProfileImage(),
+        _buildCoverImage(syne.background_image),
+        _buildProfileImage(syne.profile_image),
         _buildFollowButton()
       ],
     ),
   );
 }
 
-Widget _buildCoverImage() {
+Widget _buildCoverImage(String background_image) {
   return Container(
     height: 225,
     decoration: BoxDecoration(
       image: DecorationImage(
-        image: AssetImage('assets/syneCover.jpg'),
+        image: NetworkImage(background_image),
         fit: BoxFit.cover,
       ),
     ),
@@ -55,7 +55,7 @@ Widget _buildFollowButton() {
   );
 }
 
-Widget _buildProfileImage() {
+Widget _buildProfileImage(String profile_image) {
   return Positioned(
     left: 20.0,
     bottom: 10.0,
@@ -64,7 +64,7 @@ Widget _buildProfileImage() {
       height: 140.0,
       decoration: BoxDecoration(
         image: DecorationImage(
-          image: AssetImage('assets/syneProfile.jpg'),
+          image: NetworkImage(profile_image),
           fit: BoxFit.cover,
         ),
         shape: BoxShape.circle,

@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
                 body: SingleChildScrollView(
                   child: Column(
                     children: [
-                      topHalf(),
+                      topHalf(syne),
                       aboveTabs(syne),
                       tabsView(),
                       tabBarView()

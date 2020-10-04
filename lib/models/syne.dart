@@ -18,6 +18,8 @@ class Syne {
   final String school_location;
   final String work_image;
   final String school_image;
+  final String profile_image;
+  final String background_image;
 
   Syne(
       {this.title,
@@ -38,7 +40,9 @@ class Syne {
       this.school_time,
       this.school_location,
       this.work_image,
-      this.school_image});
+      this.school_image,
+      this.profile_image,
+      this.background_image});
 
   factory Syne.fromJson(Map<String, dynamic> json) {
     return Syne(
@@ -61,6 +65,8 @@ class Syne {
       school_location: json["school_location"],
       work_image: json["work_image"],
       school_image: json["school_image"],
+      profile_image: json["profile_image"],
+      background_image: json["background_image"],
     );
   }
 }
